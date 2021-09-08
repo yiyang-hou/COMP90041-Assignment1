@@ -1,12 +1,6 @@
 # COMP90041 - Assignment 1
 
-This repository contains the skeleton code for the assignment 1 submission on GitHub.
+This repository contains my submission for assignment 1 of the subject COMP90041 Programming and Software Development.
 
-Don't know about version control? Click [here](https://www.atlassian.com/git/tutorials/what-is-version-control).
-
-Need a refresher on GitHub? Click [here](https://guides.github.com/activities/hello-world/).
-
-This assignment is due on:
-10am (AEST), Monday April 19, 2021 (late-submission penalties apply).
-
-Also, make sure to fill in the authorship.txt file.
+The goal of this assignment is to implement a simple console drawing program in Java.
+<p>Specifically, given some parameters (e.g., side length, alignment settings), the program draws isosceles right-angled triangles and squares on a drawing canvas. The program will also have a certain capability to implement some simple transformations like rotation and zooming and perform simple error checking.</p>
